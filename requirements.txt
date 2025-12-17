@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+langchain-community
+langchain-chroma
+langgraph
+langgraph-checkpoint-sqlite
+chromadb
+python-dotenv
+pydantic
+pandas
+tqdm
+grandalf
+streamlit
